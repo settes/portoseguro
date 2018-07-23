@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-monitoramento-128x133.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
