@@ -78,7 +78,7 @@
               "background": "linear-gradient(90deg, @overlayColor, @overlayColor2)"
             },
             ".mbr-figure": {
-              "@media (min-width: 992px)": {
+              "@media (min-width: 500px)": {
                 "padding-left": "4rem",
                 "& when (@reverseContent)": {
                   "padding-right": "4rem",
@@ -90,7 +90,7 @@
               }
             },
             ".mbr-text": {
-              "@media (max-width: 767px)": {
+              "@media (max-width: 400px)": {
                 "text-align": "center"
               }
             },
